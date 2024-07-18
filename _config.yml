@@ -1,0 +1,31 @@
+title: "Andrea Conde Suárez - Portafolio"
+profile_img: /assets/img/profile.png
+icon_img: /assets/img/icon.webp
+
+name: "Andrea Conde Suárez"
+job: "Dependienta y Vendedora"
+
+#phone_number: 012-345-6789
+address: Las palmas de Gran Canaria
+email: Andreacndsrz@gmail.com
+#linkedin_username: linkedin
+#github_username: github
+#instagram_username: instagram
+#twitter_username: twitter
+#facebook_username: facebook
+#youtube_username: youtube
+#blog_url: homepage-url
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl: /andrea
+url: https://wwww.andreacondesuarez.com
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

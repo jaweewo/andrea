@@ -1,0 +1,22 @@
+subject: Formación
+listing-order: 2
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Bachillerato
+    description:
+      - IES Guía
+      
+    
+  - title:  Artes Escénicas
+    description:
+      - IES Guía
+    
+  - title: Aux. jeriatría 
+    description:
+      - Caring Homes
+  - title: Aux. veterinaria
+    description: 
+      - Euroinnova
+  - title: Monitora de equitación
+    description: 
+      - Euroinnova

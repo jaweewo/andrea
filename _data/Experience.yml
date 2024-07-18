@@ -1,0 +1,31 @@
+subject: Experiencia
+listing-order: 3
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: La casa de las Carcasas
+    role: Dependienta
+    description:
+      - Ventas y trato con el público
+      - Stock, orden y limpieza del espacio de trabajo
+      - Administración y cobro en caja
+    date: 2023 - 2024
+  - title: Mini Comprand
+    role: Dependienta
+    description: 
+      - Recuento, cobro y arqueo de caja
+      - Cierre, limpieza y reposición
+      - Panadería
+    date: 2021 - 2022
+  - title: Marvin's Magic
+    role: Demonstrator
+    description: 
+      - Ventas por objetivos
+      - Atención y captación al cliente
+    date: 2019 - 2020
+  - title: Caring Homes
+    role: Auxiliar de Jeriatria
+    description: 
+      - Atención jeriátrica
+      - Limpieza y atención ajustada al paciente
+    date: 2019 - 2019
+     
